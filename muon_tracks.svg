@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="456.60001"
+   height="348.59668"
+   id="svg7306"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docname="muon_tracks.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   version="1.0"
+   inkscape:export-filename="/home/jpivarski/work/hepr8.physics.tamu.edu/talks/2009-02-06_USCMS_bfield/muon_tracks.png"
+   inkscape:export-xdpi="150"
+   inkscape:export-ydpi="150">
+  <defs
+     id="defs7308">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective7314" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="144.61683"
+     inkscape:cy="185.67548"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:object-nodes="false"
+     inkscape:window-width="1434"
+     inkscape:window-height="846"
+     inkscape:window-x="0"
+     inkscape:window-y="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid7322"
+       visible="true"
+       enabled="false"
+       spacingx="10px"
+       spacingy="10px" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7311">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-75.296755,-327.95535)">
+    <path
+       sodipodi:type="star"
+       style="fill:#ffe4e4;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000083;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path7324"
+       sodipodi:sides="12"
+       sodipodi:cx="250"
+       sodipodi:cy="502.36218"
+       sodipodi:r1="179.92928"
+       sodipodi:r2="149.38039"
+       sodipodi:arg1="0.26179939"
+       sodipodi:arg2="0.52359878"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 423.79833,548.93131 L 377.22921,629.59139 L 296.56912,676.16052 L 203.43088,676.16052 L 122.77079,629.59139 L 76.201666,548.93131 L 76.201666,455.79306 L 122.77079,375.13297 L 203.43088,328.56385 L 296.56912,328.56385 L 377.22921,375.13297 L 423.79833,455.79306 L 423.79833,548.93131 z"
+       transform="matrix(-0.8660254,0.5,0.5,0.8660254,214.92035,-57.804723)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffc1;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000083;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path7326"
+       sodipodi:cx="250"
+       sodipodi:cy="502.36218"
+       sodipodi:rx="60"
+       sodipodi:ry="60"
+       d="M 310,502.36218 A 60,60 0 1 1 190,502.36218 A 60,60 0 1 1 310,502.36218 z"
+       transform="matrix(-0.8660254,-0.5,-0.5,0.8660254,717.28253,192.19528)" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="M 235.93484,505.91394 C 238.14012,486.63217 246.61302,467.72661 257.27458,448.95241"
+       id="path7839"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="M 262.27458,440.29216 C 278.54042,411.2617 305.14789,376.194 325.22055,355.9213"
+       id="path7841"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="M 333.88081,364.10994 C 291.70702,407.55376 259.10263,462.92938 242.21643,507.89104"
+       id="path7845"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       x="317.14288"
+       y="421.64789"
+       id="text7854"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan7856"
+         x="317.14288"
+         y="421.64789"
+         style="font-weight:bold;fill:#ff0000;-inkscape-font-specification:Bitstream Vera Sans Bold">Global Muon</tspan><tspan
+         sodipodi:role="line"
+         x="317.14288"
+         y="439.14789"
+         id="tspan7883">  ‣ inhomogeneous field</tspan><tspan
+         sodipodi:role="line"
+         x="317.14288"
+         y="456.64789"
+         id="tspan7955">     not completely understood</tspan><tspan
+         sodipodi:role="line"
+         x="317.14288"
+         y="474.14789"
+         id="tspan7957">  ‣ track-fitting decouples</tspan><tspan
+         sodipodi:role="line"
+         x="317.14288"
+         y="491.64789"
+         id="tspan7959">     from alignment</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       x="95.714287"
+       y="506.64792"
+       id="text7885"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan7887"
+         x="95.714287"
+         y="506.64792"
+         style="font-weight:bold;-inkscape-font-specification:Bitstream Vera Sans Bold">Tracker track</tspan><tspan
+         sodipodi:role="line"
+         x="95.714287"
+         y="524.14789"
+         id="tspan7897">  ‣ magnetic field</tspan><tspan
+         sodipodi:role="line"
+         x="95.714287"
+         y="541.64789"
+         id="tspan7922">     well understood</tspan><tspan
+         sodipodi:role="line"
+         x="95.714287"
+         y="559.14789"
+         id="tspan7924">  ‣ track-fitting and</tspan><tspan
+         sodipodi:role="line"
+         x="95.714287"
+         y="576.64789"
+         id="tspan2402">     alignment are coupled,</tspan><tspan
+         sodipodi:role="line"
+         x="95.714287"
+         y="594.14789"
+         id="tspan2408">     but solution is successful</tspan><tspan
+         sodipodi:role="line"
+         x="95.714287"
+         y="611.64789"
+         id="tspan2410">     (see plot)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       x="408.57144"
+       y="348.07648"
+       id="text7899"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan7901"
+         x="408.57144"
+         y="348.07648"
+         style="font-weight:bold;fill:#0000ff;-inkscape-font-specification:Bitstream Vera Sans Bold">Standalone Muon</tspan></text>
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;color:#000000"
+       d="M 180.71429,107.16811 L 192.14286,85.025251"
+       id="path2404"
+       transform="translate(75.296755,327.95535)" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;color:#000000"
+       d="M 195.71429,78.59668 L 207.85714,61.453823"
+       id="path2406"
+       transform="translate(75.296755,327.95535)" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;color:#000000"
+       d="M 212.85714,55.025251 L 225.71429,40.025251"
+       id="path2408"
+       transform="translate(75.296755,327.95535)" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;color:#000000"
+       d="M 230.71429,35.739537 L 242.85714,22.168108"
+       id="path2412"
+       transform="translate(75.296755,327.95535)" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text2419"
+       y="381.64792"
+       x="192.85715"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         id="tspan2433"
+         y="381.64792"
+         x="192.85715"
+         sodipodi:role="line"
+         style="font-weight:bold;-inkscape-font-specification:Bitstream Vera Sans Bold">Segments</tspan></text>
+  </g>
+</svg>
